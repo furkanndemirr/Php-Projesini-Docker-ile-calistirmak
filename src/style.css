@@ -1,0 +1,57 @@
+.h1 {
+    margin: auto;
+    text-align: center;
+    margin-top: 2%;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+#deletebutton
+{
+    position: relative;
+    left: 30px;
+    font-size: 15px;
+}
+.div{
+    width:200px;
+    height: 300px;
+    position: relative;
+    margin: auto;
+}
+.img
+{
+    position: relative;
+    width: 200px;
+    margin: auto;
+    padding-top: 20px
+}
+.server
+{
+
+    position: relative;
+    margin: auto;
+    width:400px;
+    height: 300px;
+}
+.div2{
+
+    width:200px;
+    height: 300px;
+    position: relative;
+    margin: auto;
+}
